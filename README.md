@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# A COVID-19 stats tracker made with React, hooks, chart.js, Material UI
+
+### Hosted live at: https://coronavirus-stats-tracker.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
